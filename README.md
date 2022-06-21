@@ -61,8 +61,16 @@
 <a href="#"><img src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white"></img></a>
 <a href="#"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></img></a>
 
+
+<h3>Algunos proyectos que encontrarás en este portafolio:</h3>
+<table>
+<tr><td>https://github.com/rubensg2499/DVDRental</td></tr>
+</table>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rubensg2499&show_icons=true&locale=en&layout=compact" alt="rubensg2499" /></p> <br>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rubensg2499&show_icons=true&locale=en" alt="rubensg2499" /></p> <br>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rubensg2499&" alt="rubensg2499" /></p>
+<br>
+
