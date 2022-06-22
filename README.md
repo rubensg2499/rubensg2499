@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, mi nombre es Rubén Sánchez González 😃</h1>
-<h3 align="center">Un apasionado desarrollador jr. oaxaqueño. Este es mi portafolio de proyectos donde puede observar en qué he trabajado y en lo que sigo trabajando.👨‍💻</h3>
+<h3 align="center">Un apasionado desarrollador jr. oaxaqueño. Este es mi portafolio de proyectos donde puedes observar en qué he trabajado y en lo que sigo trabajando.👨‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubensg2499&label=Profile%20views&color=0e75b6&style=flat" alt="rubensg2499" /> </p>
 
@@ -11,9 +11,9 @@
 
 - 💬 Puedes preguntarme acerca de **Java, Apex y Salesforce**
 
-- 📫 Me correo es **sangoru99@hotmail.com**
+- 📫 Mi correo es **sangoru99@hotmail.com**
 
-- ⚡ Algo genial sobre mi es que **me encanta escribir relatos de terror**
+- ⚡ Algo genial sobre mí es que **me encanta escribir relatos de terror**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -62,10 +62,14 @@
 <a href="#"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></img></a>
 
 
-<h3>Algunos proyectos que encontrarás en este portafolio:</h3>
-<table>
-<tr><td>https://github.com/rubensg2499/DVDRental</td></tr>
-</table>
+<h3>Algunos proyectos interesantes que encontrarás en este portafolio:</h3>
+<ul>
+  <li><a href="https://github.com/rubensg2499/DVDRental">[DVDRental]</a>. Un CRUD completo para un tienda de rentas de DVD.</li>
+  <li><a href="https://github.com/rubensg2499/Aprendamos">[Aprendamos]</a>. Aplicación web para la creación y resolución de cuestioanrios de opción múltiple.</li>
+  <li><a href="https://github.com/rubensg2499/AnimeLand">[AnimeLand]</a>. Chatbot de telegram para la gestión de contenidos de origen japonés.</li>
+  <li><a href="https://github.com/rubensg2499/Ricohnorteproyecto">[Ricoh Norte]</a>. Sitio web para empresa de venta de impresoras.</li>
+  <li><a href="https://github.com/rubensg2499/SnakeWindows">[Snake]</a>. Implementación del famoso juego Snake en C.</li>
+</ul>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rubensg2499&show_icons=true&locale=en&layout=compact" alt="rubensg2499" /></p> <br>
 
