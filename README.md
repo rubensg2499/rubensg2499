@@ -65,7 +65,7 @@
 <h3>Algunos proyectos interesantes que encontrarás en este portafolio:</h3>
 <ul>
   <li><a href="https://github.com/rubensg2499/DVDRental">[DVDRental]</a>. Un CRUD completo para un tienda de rentas de DVD.</li>
-  <li><a href="https://github.com/rubensg2499/Aprendamos">[Aprendamos]</a>. Aplicación web para la creación y resolución de cuestioanrios de opción múltiple.</li>
+  <li><a href="https://github.com/rubensg2499/Aprendamos">[Aprendamos]</a>. Aplicación web para la creación y resolución de cuestionarios de opción múltiple.</li>
   <li><a href="https://github.com/rubensg2499/AnimeLand">[AnimeLand]</a>. Chatbot de telegram para la gestión de contenidos de origen japonés.</li>
   <li><a href="https://github.com/rubensg2499/Ricohnorteproyecto">[Ricoh Norte]</a>. Sitio web para empresa de venta de impresoras.</li>
   <li><a href="https://github.com/rubensg2499/SnakeWindows">[Snake]</a>. Implementación del famoso juego Snake en C.</li>
