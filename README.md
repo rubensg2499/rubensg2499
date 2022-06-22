@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, mi nombre es Rubén Sánchez González 😃</h1>
-<h3 align="center">Un apasionado desarrollador jr. oaxaqueño. Este es mi portafolio de proyectos donde puedes observar en qué he trabajado y en lo que sigo trabajando.👨‍💻</h3>
+<h3 align="center">Un apasionado desarrollador Jr. oaxaqueño. Este es mi portafolio de proyectos donde puedes observar en qué he trabajado y en lo que sigo trabajando.👨‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubensg2499&label=Profile%20views&color=0e75b6&style=flat" alt="rubensg2499" /> </p>
 
