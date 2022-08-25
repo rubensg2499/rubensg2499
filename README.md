@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rubensg2499" alt="rubensg2499" /></a> </p>
 
-- 🔭 Me encuentro trabajando en **soporte técnico de Xertica**
+- 🔭 Me encuentro trabajando en **Xertica**
 
-- 🌱 Actualmente estoy aprendiendo **Django y Laravel**
+- 🌱 Actualmente estoy aprendiendo **AWS y Docker**
 
 - 💬 Puedes preguntarme acerca de **Java, Apex y Salesforce**
 
