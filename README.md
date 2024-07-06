@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, mi nombre es Rubén Sánchez González 😃</h1>
-<h3 align="center">Un apasionado desarrollador Jr. oaxaqueño. Este es mi portafolio de proyectos donde puedes observar en qué he trabajado y en lo que sigo trabajando.👨‍💻</h3>
+<h3 align="center">Un apasionado consultor SysOps Cloud oaxaqueño. Este es mi portafolio de proyectos donde puedes observar en qué he trabajado y en lo que sigo trabajando.👨‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubensg2499&label=Profile%20views&color=0e75b6&style=flat" alt="rubensg2499" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rubensg2499" alt="rubensg2499" /></a> </p>
 
-- 🔭 Me encuentro trabajando en **Xertica**
+- 🔭 Me encuentro trabajando en **Grupo Salinas**
 
 - 🌱 Actualmente estoy aprendiendo **AWS y Docker**
 
